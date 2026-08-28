@@ -33,5 +33,7 @@ def get_otp():
         "message": "This OTP cannot be hacked even by quantum computer"
     })
 
-if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000, debug=True)
+if __name__ == "__main__":
+    # app.run(host='0.0.0.0', port=5000, debug=True)
+    pass
+    
